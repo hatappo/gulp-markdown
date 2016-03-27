@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "gulp-util": "^3.0.0",
-    "marked": "^0.3.2",
+    "marked": "git@github.com:hatappo/marked.git",
     "through2": "^2.0.0"
   },
   "devDependencies": {
